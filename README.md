@@ -49,3 +49,9 @@ Repositório com **desafios e projetos desenvolvidos durante meus estudos de Jav
 👉 [Acessar o repositório Java10X](https://github.com/pietroramosz/Java10X)
 
 ---
+
+## 💭 Citação
+
+> *"Do mais burro ao mais sábio, o amor é imparável."*
+>
+> — Pietro R.
