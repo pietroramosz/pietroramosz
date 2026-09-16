@@ -1,3 +1,5 @@
+![Banner](assets/toqueascii.jpg)
+
 # 👋 Olá, eu sou o Pietro!
 
 ## 💻 Sobre mim
