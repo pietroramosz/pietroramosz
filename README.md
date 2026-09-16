@@ -85,4 +85,4 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo 
 
 > *"Do mais burro ao mais sábio, o amor é imparável."*
 >
-> — Pietro
+> — Pietro R.
