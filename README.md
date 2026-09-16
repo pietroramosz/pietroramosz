@@ -12,6 +12,12 @@
   <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
 </p>
 
+<p align="center">
+  <a href="https://discord.com/users/prtaxl">
+    <img src="https://img.shields.io/badge/Discord-@prtaxl-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
 ---
 
 ## 💻 Sobre mim
@@ -80,9 +86,3 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo 
 > *"Do mais burro ao mais sábio, o amor é imparável."*
 >
 > — Pietro
-
----
-
-<p align="center">
-  <i>Construindo minha base. Um projeto de cada vez.</i>
-</p>
