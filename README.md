@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pietro!
 
-<!--
-**pietroramosz/pietroramosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante do **1º ano do Ensino Médio Técnico em Informática** e estou construindo minha base em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✝️ Sou **cristão** e busco crescer tanto nos estudos quanto na minha vida pessoal.
+
+---
+
+## 📚 O que estou estudando
+
+### ☕ Java
+
+Atualmente estou estudando **Java**, praticando lógica de programação, resolução de problemas e Programação Orientada a Objetos.
+
+### 🔧 Ferramentas
+
+* Git & GitHub
+* IntelliJ IDEA
+
+---
+
+## 🚀 O que quero aprender
+
+* 🗄️ SQL
+* 🌱 Spring Boot
+* 🔌 APIs REST
+* 🐧 Linux
+* ☁️ AWS
+* 🔐 Segurança de aplicações
+
+---
+
+## 🎯 Meu objetivo
+
+Construir uma base sólida em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
+
+---
+
+## 📂 Projetos e estudos
+
+### ☕ Java10X
+
+Repositório com **desafios e projetos desenvolvidos durante meus estudos de Java**.
+
+👉 [Acessar o repositório Java10X](https://github.com/pietroramosz/Java10X)
+
+---
