@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Pietro!</h1>
 
 <p align="center">
-  💻 Estudante de Informática • ☕ Java • 🧑‍💻 Futuro Desenvolvedor
+  💻 Estudante de Informática • ☕ Java • 🧑‍💻 Futuro Dev
 </p>
 
 <p align="center">
