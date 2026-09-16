@@ -24,10 +24,6 @@
 
 Sou estudante do **1º ano do Ensino Médio Técnico em Informática** e estou construindo minha base em programação e desenvolvimento de software.
 
-✝️ Sou **cristão** e busco crescer tanto nos estudos quanto na minha vida pessoal.
-
-Atualmente, estou focado em aprender **Java**, melhorar minha lógica de programação e desenvolver projetos para colocar meus conhecimentos em prática.
-
 ---
 
 ## ☕ Atualmente estudando
@@ -75,7 +71,7 @@ Repositório com **desafios e projetos desenvolvidos durante meus estudos de Jav
 
 ## 🎯 Meu objetivo
 
-Construir uma base sólida em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
+Construir uma base em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
 
 Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo a passo como desenvolvedor.
 
