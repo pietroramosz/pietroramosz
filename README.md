@@ -74,11 +74,3 @@ Repositório com **desafios e projetos desenvolvidos durante meus estudos de Jav
 Construir uma base em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
 
 Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo a passo como desenvolvedor.
-
----
-
-## 💭 Citação
-
-> *"Do mais burro ao mais sábio, o amor é imparável."*
->
-> — Pietro R.
