@@ -5,14 +5,6 @@
 <h1 align="center">👋 Olá, eu sou o Pietro!</h1>
 
 <p align="center">
-  💻 Estudante de Informática • ☕ Java 
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/prtaxl">
     <img src="https://img.shields.io/badge/Discord-@prtaxl-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
@@ -22,14 +14,14 @@
 
 ## 💻 Sobre mim
 
-Sou estudante do **1º ano do Ensino Médio Técnico em Informática** e estou construindo minha base em programação e desenvolvimento de software.
+Sou estudante do **1º ano do Ensino Médio Técnico em Informática**, atualmente focado em **Java** e construindo minha base em programação e desenvolvimento de software.
 
 ---
 
 ## ☕ Atualmente estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tecnologias que estou estudando">
 </p>
 
 * ☕ Java
@@ -43,7 +35,7 @@ Sou estudante do **1º ano do Ensino Médio Técnico em Informática** e estou c
 ## 🤓 Quero aprender
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,spring,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,spring,linux,aws" alt="Tecnologias que quero aprender">
 </p>
 
 * 🗄️ SQL
@@ -71,6 +63,6 @@ Repositório com **desafios e projetos desenvolvidos durante meus estudos de Jav
 
 ## 🎯 Meu objetivo
 
-Construir uma base em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
+Construir uma base sólida em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
 
 Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo a passo como desenvolvedor.
