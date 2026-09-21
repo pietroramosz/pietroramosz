@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Pietro!</h1>
 
 <p align="center">
-  <a href="mailto:pietroramos.tech@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pietroramos.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://discord.com/users/prtaxl">
