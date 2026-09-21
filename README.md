@@ -5,6 +5,9 @@
 <h1 align="center">👋 Olá, eu sou o Pietro!</h1>
 
 <p align="center">
+  <a href="mailto:pietroramos.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://discord.com/users/prtaxl">
     <img src="https://img.shields.io/badge/Discord-@prtaxl-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
@@ -18,21 +21,15 @@ Sou estudante do **1º ano do Ensino Médio Técnico em Informática**, atualmen
 
 ---
 
-## ☕ Atualmente estudando
+## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tecnologias que estou estudando">
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tecnologias e ferramentas">
 </p>
-
-* ☕ Java
-* 🧠 Lógica de programação
-* 🧩 Programação Orientada a Objetos
-* 🔧 Git & GitHub
-* 💡 Desenvolvimento de projetos
 
 ---
 
-## 🤓 Quero aprender
+## 📚 Quero aprender
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,spring,linux,aws" alt="Tecnologias que quero aprender">
