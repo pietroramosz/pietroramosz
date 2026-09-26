@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/toquebanner.png" alt="Banner">
+  <img src="assets/banner.png" alt="Banner">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Pietro!</h1>
