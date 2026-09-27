@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/gifbanner.gif" alt="Pietro Ramos GitHub Banner">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Pietro!</h1>
+<h1 align="center">Pietro Ramos</h1>
+
+<p align="center">
+  Desenvolvimento de Software • Java
+</p>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pietroramos.tech@gmail.com">
@@ -15,13 +19,15 @@
 
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
-Sou estudante do **1º ano do Ensino Médio Técnico em Informática**, atualmente focado em **Java** e construindo minha base em programação e desenvolvimento de software.
+Estudante do **Ensino Médio Técnico em Informática**, atualmente focado em **Java** e desenvolvimento de software. 
+
+Busco desenvolver projetos cada vez mais completos, entendendo não apenas o código, mas também a estrutura, organização e decisões envolvidas na construção de um software.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tecnologias e ferramentas">
@@ -29,37 +35,14 @@ Sou estudante do **1º ano do Ensino Médio Técnico em Informática**, atualmen
 
 ---
 
-## 📚 Quero aprender
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,spring,linux,aws" alt="Tecnologias que quero aprender">
-</p>
-
-* 🗄️ SQL
-* 🌱 Spring Boot
-* 🔌 APIs REST
-* 🐧 Linux
-* ☁️ AWS
-* 🔐 Segurança de aplicações
-
----
-
-## 📂 Projetos e estudos
+## Projetos
 
 ### ☕ Java10X
 
-Repositório com **desafios e projetos desenvolvidos durante meus estudos de Java**.
+Repositório onde registro minha evolução em Java através de **exercícios, desafios e projetos práticos**.
 
 <p align="center">
   <a href="https://github.com/pietroramosz/Java10X">
     <img src="https://img.shields.io/badge/Ver%20repositório-Java10X-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
----
-
-## 🎯 Meu objetivo
-
-Construir uma base sólida em **desenvolvimento de software**, aprender através de projetos e registrar minha evolução ao longo dos estudos.
-
-Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo passo a passo como desenvolvedor.
