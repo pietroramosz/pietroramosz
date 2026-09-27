@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gifbanner.gif" alt="Pietro Ramos GitHub Banner">
+  <img src="assets/gifbanner.gif" alt="Banner">
 </p>
 
 <h1 align="center">Pietro Ramos</h1>
@@ -21,7 +21,7 @@
 
 ## Sobre mim
 
-Estudante do **Ensino Médio Técnico em Informática**, atualmente focado em **Java** e desenvolvimento de software. 
+Estudante do **Ensino Médio Técnico em Informática**, atualmente focado em **Java** e desenvolvimento de software.
 
 Busco desenvolver projetos cada vez mais completos, entendendo não apenas o código, mas também a estrutura, organização e decisões envolvidas na construção de um software.
 
@@ -30,7 +30,10 @@ Busco desenvolver projetos cada vez mais completos, entendendo não apenas o có
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tecnologias e ferramentas">
+  <img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-2B2B2B?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
 </p>
 
 ---
@@ -43,6 +46,6 @@ Repositório onde registro minha evolução em Java através de **exercícios, d
 
 <p align="center">
   <a href="https://github.com/pietroramosz/Java10X">
-    <img src="https://img.shields.io/badge/Ver%20repositório-Java10X-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Ver%20repositório-Java10X-2B2B2B?style=for-the-badge&logo=github&logoColor=white" alt="Java10X">
   </a>
 </p>
