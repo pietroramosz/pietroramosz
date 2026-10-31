@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pietroramos.tech@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=pietroramos.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://discord.com/users/prtaxl">
+  <a href="https://discord.com/users/766450010434174986" target="_blank">
     <img src="https://img.shields.io/badge/Discord-@prtaxl-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
