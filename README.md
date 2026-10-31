@@ -42,7 +42,7 @@ Tenho interesse em construir software do zero, compreendendo sua lógica, arquit
 
 ## Projetos
 
-### ☕ Java10X
+### Java10X
 
 Registro da minha evolução em **Java**, reunindo exercícios, desafios e projetos práticos voltados à lógica de programação e orientação a objetos.
 
@@ -52,7 +52,7 @@ Registro da minha evolução em **Java**, reunindo exercícios, desafios e proje
   </a>
 </p>
 
-### 🚀 OdisseIA
+### OdisseIA
 
 Projeto web interativo sobre a **evolução dos jogos eletrônicos e da inteligência artificial**, desenvolvido para a Feira de Ciências 2026.
 
